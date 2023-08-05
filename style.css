@@ -78,7 +78,10 @@ main {
   background-color: var(--Dark-cyan);
   color: white;
 }
-
+.card__description__category {
+  text-transform: uppercase;
+  letter-spacing: 1rem;
+}
 .attribution a {
   color: white;
 }
