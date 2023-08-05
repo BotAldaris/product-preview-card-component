@@ -72,6 +72,16 @@ main {
 .card__description__adicionar:hover {
   background-color: var(--Very-dark-blue);
 }
+.attribution {
+  text-align: center;
+  padding-block: 1rem;
+  background-color: var(--Dark-cyan);
+  color: white;
+}
+
+.attribution a {
+  color: white;
+}
 @media (min-width: 768px) {
   .card {
     flex-direction: row;
